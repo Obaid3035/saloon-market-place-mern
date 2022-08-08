@@ -1,0 +1,121 @@
+.section__header__img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 12rem 0;
+}
+
+#doctor__header__img {
+    background-image: url("../../../../assets/customer/img/main.png");
+}
+#doctor__middle__img {
+    background-image: url("../../../../assets/customer/img/discover__img.jpeg");
+}
+
+#dentist__header__img {
+    background-image: url("../../../../assets/customer/img/smile-dentist-header.png");
+}
+#dentist__middle__img {
+    background-image: url("../../../../assets/customer/img/smile-dentist-image.png");
+}
+
+#beautician__header__img {
+    background-image: url("../../../../assets/customer/img/beauty-header.png");
+}
+
+#beautician__middle__img {
+    background-image: url("../../../../assets/customer/img/beauty-image-2.png");
+}
+
+#barber__header__img {
+    background-image: url("../../../../assets/customer/img/barber-header-image.jpg");
+}
+
+#barber__middle__img {
+    background-image: url("../../../../assets/customer/img/barber-image-2.jpg");
+}
+
+#hairdresser__header__img {
+    background-image: url("../../../../assets/customer/img/hairdresser-header-image.png");
+}
+
+#hairdresser_middle_img {
+    background-image: url("../../../../assets/customer/img/barber-image-2.jpg");
+}
+
+#spa__header__img {
+    background-image: url("../../../../assets/customer/img/spa-header.png");
+}
+
+#spa_middle_img {
+    background-image: url("../../../../assets/customer/img/spa-image-2.png");
+}
+
+
+
+
+
+
+
+#service__heading {
+    text-align: center;
+}
+#section__search {
+    background: #e5e5e5;
+}
+
+.service__form {
+    font-size: 1.2rem;
+    border-radius: 0;
+    border: none;
+}
+
+#service__form2__width {
+    width: 40%;
+}
+
+#service__form1__width {
+    width: 30%;
+    border-right: 1px solid black;
+}
+
+#service__button {
+    border-radius: 0;
+    font-size: 1.2rem;
+    background-color: black;
+    border-color: black;
+    transition: all 1.0s;
+    width: 30%;
+}
+
+#service__btn {
+    font-size: 0.7rem!important;
+}
+.service__text {
+    font-size: 1.2rem;
+    font-family: 'Noir-Light', sans-serif;
+}
+
+.section__discover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 6rem 0;
+}
+
+#section__bottom {
+    background-image: url("../../../../assets/customer/img/service__bottom.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#service__card {
+    margin-top: -5rem;
+}
+
+.light {
+    font-family: 'Noir-Light', sans-serif;
+}
+
+.service__bottom__list {
+    font-size: 0.9rem;
+    line-height: 3;
+}

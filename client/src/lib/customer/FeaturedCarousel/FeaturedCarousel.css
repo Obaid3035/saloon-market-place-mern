@@ -1,0 +1,65 @@
+.slick-list {
+    max-width: 400px;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*.carousel-img{*/
+/*    height: 300px !important;*/
+/*    margin-right: 20px !important;*/
+/*    width: 350px !important;*/
+/*}*/
+
+/*.img1 {*/
+/*    width: 50%;*/
+/*}*/
+
+.hover__text1 {
+    position: absolute;
+    bottom: 0;
+    background-color: black;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.hover__text1 p {
+    color: white;
+}
+
+.main__slider{
+    display: flex;
+    overflow: hidden;
+    /*margin-left: 25%;*/
+}
+
+
+.hover__text1 h3 {
+    text-decoration: none !important;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Noir-Bold', sans-serif;
+    font-size: 1.3rem;
+}
+.wrapper1:hover div.hover__text1 {
+    opacity: 1;
+}
+.wrapper1 {
+    cursor: pointer;
+
+}
+
+@media (max-width: 991px) {
+    .shop__img{
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .position-relative {
+        display: block !important;
+    }
+}

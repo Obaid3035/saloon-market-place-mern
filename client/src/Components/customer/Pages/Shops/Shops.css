@@ -1,0 +1,67 @@
+#section__result__1 {
+    background-image: url("../../../../assets/customer/img/facts-area.png");
+    background-size: cover;
+    padding: 160px 0;
+}
+
+#filter__btn {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+#hide__btn {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.search__btn {
+    border-radius: 0;
+    font-size: 12px;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+/* #map {
+    height: 800px;
+} */
+
+#search__item {
+    border: none;
+}
+.shop-progress p {
+    position: relative;
+    top: 60px;
+}
+
+.modal-tile-filter {
+    margin-left: 130px;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer !important;
+}
+
+@media (max-width: 991px) {
+    .hide-map-on-mobile {
+        display: none;
+    }
+    .next-line-form {
+        display: block;
+    }
+    .search-btn-shop {
+        margin-top: 10px;
+    }
+    .button-of-shop-search {
+        text-align: center;
+    }
+    #section__result__1 {
+        display: none;
+    }
+}

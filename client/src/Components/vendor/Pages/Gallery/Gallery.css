@@ -1,0 +1,39 @@
+.progress__bar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+#shop__main {
+    width: 30%;
+}
+
+div.filepicker {
+    text-align: center;
+    padding: 5px;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-bottom: 4rem;
+    min-height: 60px;
+    border: 2px dashed #C7C7C7;
+}
+
+.delete__img {
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    right: -1px;
+    background: black;
+    padding: 5px 9px;
+    top: -16px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all ease-in-out 0.5s;
+}
+
+.delete__img:hover {
+    background: red;
+}

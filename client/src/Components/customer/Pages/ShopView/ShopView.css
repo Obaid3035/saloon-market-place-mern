@@ -1,0 +1,128 @@
+.service_header_img {
+    background-image: url("../../../../assets/customer/img/StoreBanner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 12rem 0;
+}
+
+#card_container {
+    margin-top: -35px;
+}
+
+#card_container .card {
+    border-radius: 0;
+}
+
+.service__btn {
+    border-radius: 0;
+    background-color: white;
+    border-color: black;
+    color: black;
+    font-size: 12px;
+}
+
+.service__btn_2 {
+    border-radius: 0;
+    background-color: black;
+    border-color: white;
+    color: white;
+    font-size: 12px;
+}
+
+.service__btn:hover {
+    border-radius: 0;
+    background-color: black;
+    text-transform: uppercase;
+    border-color: white;
+    color: white;
+    font-size: 12px;
+}
+
+#service__btn__2 {
+    border-radius: 0;
+    background-color: black;
+    border-color: white;
+    font-size: 12px;
+    color: white;
+}
+
+#map2 {
+    width: 1200px;
+}
+
+.filter {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.commentbtn {
+    background-color: black;
+    color: #fff;
+    border: 2px solid black;
+    padding: 3px 10px !important;
+    margin-left: 5px !important;
+}
+
+#service__modal .modal-header {
+    background-color: black;
+}
+
+#price {
+    color: red;
+}
+
+#choose__time {
+    background-color: black !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 34px 50px !important;
+    font-size: 16px !important;
+}
+
+#wrapper_checkout {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#checkout__modal {
+    transition: transform 0.3s ease-out;
+    z-index: 200;
+    border-color: black;
+}
+
+.open {
+    transform: translateY(0%);
+}
+
+.close {
+    transform: translateY(100%);
+}
+
+@media all and (min-width: 992px) {
+    .basket {
+        text-align: left;
+    }
+    .time {
+        text-align: right;
+    }
+}
+
+@media (max-width: 991px) {
+    #choose__time {
+        padding: 15px 15px !important;
+    }
+    .map-responsive-shop {
+        height: 300px !important;
+        width: 300px !important;
+    }
+    .button-to-hide-shopview {
+        display: none;
+    }
+    .mobile-pic-height-shopview{
+        height: 500px;
+    }
+    .shop_head{
+        padding-bottom: 15px !important;
+    }
+}

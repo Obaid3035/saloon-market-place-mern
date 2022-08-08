@@ -1,0 +1,21 @@
+.staff__name {
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.StaffEditCard{
+ width: 100%;
+}
+
+.staff-data{
+    display: inline !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.progress__bar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

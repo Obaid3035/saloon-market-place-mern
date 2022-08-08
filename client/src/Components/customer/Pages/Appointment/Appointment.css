@@ -1,0 +1,88 @@
+#employee__dropdown {
+    background-color: white;
+    border: none
+}
+#employee__dropdown:active {
+    border: none
+}
+#employee__dropdown h4, p {
+    color: black;
+}
+.employee__card {
+    background-color: white;
+}
+
+.employee__items {
+    cursor: pointer;
+}
+
+.appointment__btn__selected {
+    background-color: black !important;
+    border: none !important;
+    color: white !important;
+    outline: black !important;
+    border-color: black !important;
+
+}
+.appointment__btn__selected:hover {
+    background-color: black !important;
+    border: none !important;
+    color: white !important;
+    outline: black !important;
+    border-color: black;
+
+}
+.appointment__btn {
+    background-color:white !important;
+    border: none !important;
+    color: black !important;
+    outline: black !important;
+    border-color: black !important;
+
+}
+
+.appointment__btn:hover {
+    background-color: black !important;
+    color: white !important;
+    border: none !important;
+    outline: black !important;
+    border-color: black !important;
+
+}
+
+.appointment__btn:active {
+    background-color: black !important;
+    color: white !important;
+    border: none !important;
+    outline: black !important;
+    border-color: black !important;
+}
+
+.site__btn2 {
+    border-color: black;
+    border-radius: 0;
+    background-color: black;
+    color: white;
+}
+
+.site__btn2:hover {
+    border-color: white;
+    border-radius: 0;
+    background-color: white;
+    color: black;
+}
+.checkout__btn {
+    width: 100%;
+    transition: all 0.8s;
+}
+
+
+.customer__appoint__top-01{
+    background-color:#ffff;
+    height: 330px;
+    margin-top: 20px;
+}
+
+.customer__reg__modal-02{
+    height: 370px;
+}

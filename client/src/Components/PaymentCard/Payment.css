@@ -1,0 +1,15 @@
+.card-ico{
+    font-size: 40px !important;
+}
+
+.subs__main h4{
+    color: grey;
+}
+
+
+@media (max-width: 991px) {
+    .payment-btn{
+        width: 100%;
+        margin-left: 0px;
+    }
+}

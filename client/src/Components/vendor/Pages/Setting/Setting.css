@@ -1,0 +1,29 @@
+.save__btn {
+    background-color: black;
+    color: white ;
+    border: none;
+    padding: 8px;
+}
+
+.save__btn:hover {
+    background-color: white;
+    color: black ;
+    border: none;
+    padding: 8px;
+    transition: 0.5s ease-in-out;
+}
+.progress__bar {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    -webkit-transform: translate(-50%, -50%) !important;
+    transform: translate(-50%, -50%) !important;
+}
+
+#settings{
+  height: 100vh;
+}
+
+#premium__btn {
+    cursor: pointer;
+}

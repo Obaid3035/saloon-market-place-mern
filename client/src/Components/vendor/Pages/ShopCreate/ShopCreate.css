@@ -1,0 +1,25 @@
+.opening__tabs {
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+.add__btn {
+    cursor: pointer;
+}
+
+.add__btn:hover {
+    color: green;
+}
+
+.remove__btn {
+    cursor: pointer;
+}
+
+.remove__btn:hover {
+    cursor: pointer;
+    color: #ff0e0e
+}
+
+.cur__location {
+    cursor: pointer;
+}

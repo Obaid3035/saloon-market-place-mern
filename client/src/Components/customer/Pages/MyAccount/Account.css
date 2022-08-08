@@ -1,0 +1,50 @@
+.tabbtn {
+    color: black !important;
+    background-color: #fff !important;
+}
+.main-appointment {
+    background-color: rgb(245, 245, 245);
+}
+.btn {
+    background-color: black;
+    color: white;
+}
+.card-text {
+    color: #000;
+    font-weight: 500;
+}
+.info {
+    font-size: 25px !important;
+    font-weight: 500;
+}
+.appointment {
+    height: 47.5vh;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    padding: 10px 15px !important;
+    font-size: 16px !important;
+    font-weight: 500;
+}
+
+.appoint-cart h5 {
+    color: #000;
+    font-weight: 700;
+}
+
+.appointment__section {
+    overflow: scroll;
+    height: 100vh;
+}
+
+.right__section {
+    background-color: #ececec;
+}
+
+@media (max-width: 991px) {
+    .hide-img-my-appoint {
+        display: none;
+    }
+}

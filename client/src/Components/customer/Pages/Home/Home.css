@@ -1,0 +1,200 @@
+#section__1 {
+    background-image: url("../../../../assets/customer/img/header-homepage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 7rem 0;
+    width: 100%
+}
+.overflow {
+    overflow: hidden;
+}
+#home__heading {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Noir-Bold', sans-serif;
+    font-size: 3.5rem;
+    text-align: left;
+    line-height: 50px;
+}
+
+#header__heading {
+    height: 100%;
+}
+
+#home__paragraph {
+    color: white;
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+#salon {
+    font-family: 'Noir-Light', sans-serif;
+    font-size: 2.7rem;
+}
+
+.header__form {
+    font-size: 0.9rem;
+    border-radius: 3px;
+    border: none;
+    width: 100%;
+}
+
+.header__form::placeholder {
+    font-size: 0.9rem;
+    font-weight: normal;
+    color: grey;
+}
+
+.header__form:focus {
+    box-shadow: none;
+}
+
+.header__btn {
+    border-radius: 0 !important;
+    font-size: 0.9rem !important;
+    background-color: black !important;
+    border-color: black !important;
+    transition: all 1.0s !important;
+}
+
+#about {
+    font-family: 'Noir', sans-serif;
+    text-transform: uppercase;
+}
+.medium {
+    font-family: 'Noir-Medium', sans-serif;
+}
+
+.site__btn {
+    background-color: #D19A22 !important;
+    border-color: #D19A22 !important;
+    border-radius: 0 !important;
+}
+
+#about__line {
+    background-color: #D19A22;
+    padding: 1.5px;
+    width: 70px;
+}
+
+.bold {
+    font-family: 'Noir-Bold', sans-serif;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.hover__text {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.3);
+    opacity: 0;
+    transition: opacity 1.5s;
+}
+
+.hover__text p {
+    color: white;
+}
+
+.hover__text h3 {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Noir-Bold', sans-serif;
+    font-size: 1.3rem;
+}
+.wrapper:hover div.hover__text {
+    opacity: 1;
+}
+.wrapper {
+    cursor: pointer;
+
+}
+
+#section__4 {
+    background-image: url("../../../../assets/customer/img/facts-area.png");
+}
+
+.how {
+    color: white;
+    text-transform: uppercase;
+}
+#section__5 {
+    margin-top: -150px;
+}
+
+.card__paragraph {
+    font-size: 0.8rem;
+}
+#section__5 .card {
+    min-height: 355px;
+    margin-bottom: 100px;
+}
+
+#section__7 {
+    background-image: url("../../../../assets/customer/img/call-for-professionals-bg.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin-bottom: 80px;
+}
+
+#section__7 h1{
+    color: white;
+    font-size: 3.2rem;
+}
+
+#section__7 p{
+    color: white;
+    font-size: 1.8rem;
+}
+
+#section__8  {
+    padding: 100px 0;
+}
+
+#section__8 p.text-muted {
+    font-size: 0.8rem;
+}
+
+#section__9 {
+    background-image: url("../../../../assets/customer/img/facts-area.png");
+    background-size: cover;
+    padding: 60px 0;
+}
+
+#section__9 p.sec9__paragraph {
+    color: white;
+    font-size: 1.6rem;
+    font-family: 'Noir-Light', sans-serif;
+}
+
+.white {
+    color: white;
+}
+
+.site__color {
+    color: #D19A22;
+}
+
+.accordion button {
+    border: none;
+    background-color: white;
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.accordion-item {
+    border-bottom: 1px solid #6c757d;
+    padding: 15px 0;
+}
+.site__btn:hover {
+    background-color: black !important;
+    transition: all 1s !important;
+    border-color: black !important;
+}
+

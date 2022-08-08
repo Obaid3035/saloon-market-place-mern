@@ -1,0 +1,16 @@
+.checkout_section_1 {
+    background-image: url("../../../../assets/customer/img/facts-area.png");
+    background-size: cover;
+    padding: 130px 0px;
+}
+
+.detail__form {
+    border-radius: 0;
+    border: 2px solid black;
+    padding: 25px 10px;
+}
+
+.checkout__card {
+    border-radius: 0;
+    border: 2px solid black;
+}

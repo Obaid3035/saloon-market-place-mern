@@ -1,0 +1,26 @@
+footer {
+    background-color: black;
+    overflow: hidden;
+}
+
+.footer__paragraph {
+    font-size: 0.6rem;
+}
+
+footer div.d-flex p {
+    font-size: 1rem;
+}
+.subscribe {
+    font-size: 0.8rem!important;
+}
+
+.footer-top {
+    border-bottom: 1px solid white;
+}
+
+@media (max-width: 991px) {
+    .position-relative{
+        display: none !important;
+    }
+}
+

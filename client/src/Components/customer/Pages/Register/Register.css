@@ -1,0 +1,26 @@
+.react-tel-input .form-control {
+    width: 100% !important;
+    margin: 10px 0 !important;
+}
+.right__content {
+    height: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.login {
+    color: black;
+}
+.login:hover {
+    color: black;
+}
+
+.customer__reg__top-01 {
+    background-color: #fff;
+}
+
+.customer__reg__top-02 {
+    background-color: #fff;
+    height: 330px;
+}
